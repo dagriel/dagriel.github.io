@@ -1,6 +1,18 @@
-# Welcome to Source of Dagriel's Portfolio
+# Projeto: site_intitucional-bootstrap
 
-Source of [Dagriel's portfolio](https://dagriel.github.io) and ![Image](img/profile-photo1.png)
+## INFORMAÇÕES
+Ampliação da Aula Front-end de Bootstrap do [Rafael Galleani](https://github.com/rafegal), na [Digital Innovation One](https://web.digitalinnovation.one) “Construindo páginas para internet com Bootstrap”.
 
+Aprendi a utilizar o framework Bootstrap e aprofundei mais o meu conhecimento sobre o design mobile first implementando um site instituional completamente responsivo.
 
-For more details see ![Image](img/tela-01.png)
+### TECNOLOGIAS UTILIZADAS: 
+* Bootstrap
+* HTML5
+* CSS3
+* JAVASCRIPT
+
+### SCREENSHOT:
+
+![imagem](img/screenshot-550_1.png)
+
+### DISPONÍVEL EM: [https://dagriel.github.io](https://dagriel.github.io)
