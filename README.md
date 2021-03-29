@@ -3,12 +3,12 @@
 ## INFORMAÇÕES
 Ampliação da Aula Front-end de Bootstrap do [Rafael Galleani](https://github.com/rafegal), na [Digital Innovation One](https://web.digitalinnovation.one) “Construindo páginas para internet com Bootstrap”.
 
-Aprendi a utilizar o framework Bootstrap e aprofundei mais o meu conhecimento sobre o design mobile first implementando um site instituional completamente responsivo.
+Utilizei o framework Bootstrap e aprofundei o meu conhecimento sobre o design mobile first implementando um site instituional responsivo.
 
 ### TECNOLOGIAS UTILIZADAS: 
-* Bootstrap
-* HTML5
-* CSS3
+* Bootstrap 4.3 | (upgrade to 5)
+* HTML 5
+* CSS 3
 * JAVASCRIPT
 
 ### SCREENSHOT:
